@@ -1,5 +1,4 @@
 import {ContactCard} from "@/app/_component/status/contatCard/ContactCard";
-import {Card} from "@/components/ui/card";
 
 export const Contact = () => {
   return (
