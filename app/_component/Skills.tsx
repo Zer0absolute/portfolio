@@ -22,7 +22,7 @@ export const Skills = () => {
           </div>
           <h3 className="text-2xl font-semibold tracking-tight">React | Next.js</h3>
           <p className="text-sm text-muted-foreground">
-            My main framework is <Code>React</Code>. I also <Code>Next.js</Code> as a backend and frontend framework.
+            My main framework is <Code>React</Code>. I also use<Code>Next.js</Code> as a backend and frontend framework.
           </p>
         </div>
         <div>

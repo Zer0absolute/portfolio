@@ -11,11 +11,9 @@ export const Hero = () => {
       <div className={"flex-[3] w-full flex flex-col gap-2"}>
         <h2 className={"font-caption font-bold text-5xl text-primary"}>Maël Colomé</h2>
         <h3 className={"text-3xl font-caption"}>Software Developer</h3>
-        <p>I am a FullStack developer. I am &nbsp;
-          <Code className={"inline-flex items-center gap-1"}>
-            <FrenchIcon className={"inline-flex animate-pulse"} size={16}/> French
-          </Code>
-          &nbsp; My main framework is <Code className={"inline-flex items-center gap-1"}><ReactIcon
+        <p>I am a <Code className={"inline-flex items-center gap-1"}>
+          <FrenchIcon className={"inline-flex animate-pulse"} size={16}/> French
+        </Code> FullStack developer.&nbsp; My main framework is <Code className={"inline-flex items-center gap-1"}><ReactIcon
             size={16} className={"inline-flex animate-pulse"}/>React</Code> and i also use <Code
             className={"inline-flex items-center gap-1"}><NextIcon size={16} className={"inline-flex animate-pulse"}/>Next.js</Code> as
           both a backend and frontend framework. I am learning <Code
