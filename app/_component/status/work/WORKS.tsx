@@ -13,7 +13,7 @@ export const WORKS: WorkType[] = [
     title: "Burger",
     role: "Software Developer",
     date: "2023 - 2024",
-    url: "https://crazeeburger-zer0absolute-zer0s-projects-da2820b3.vercel.app/order/bob?_vercel_share=WjpJDbyeeNwZEyjK00J8Umm7pM3j4jQJ",
+    url: "https://crazeeburger-zer0absolute-zer0s-projects-da2820b3.vercel.app/?_vercel_share=WjpJDbyeeNwZEyjK00J8Umm7pM3j4jQJ",
     freelance: true,
   },
 ]
