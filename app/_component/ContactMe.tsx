@@ -15,7 +15,7 @@ export const ContactMe = () => {
           image={"https://media.licdn.com/dms/image/v2/D4E03AQFi6_lgRym8XQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723238219743?e=1732147200&v=beta&t=bDQOJW-gKRng4uts39Zp-m_j6-PRQnFldsu5JfDlM3I"}
           mediumImage={"https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"}
           description={"Contact me in linkedin"}
-          url={""}
+          url={"https://www.linkedin.com/in/mael-colome/"}
         />
         <ContactCard
           title={"Malt"}

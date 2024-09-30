@@ -11,7 +11,9 @@ export const Header = () => {
     <header className={"top-0 py-4"}>
       <Section className={"flex items-baseline"}>
         <div className={"inline-flex gap-2"}>
-          <h1 className={"text-lg font-bold text-primary"}>maelcolome.com</h1>
+          <Link href={"https://colome-mael-portfolio.netlify.app"}>
+            <h1 className={"text-lg font-bold text-primary"}>colome-mael-portfolio.app</h1>
+          </Link>
           {/*<h1 className={"text-lg font-bold text-primary"}>Blog</h1>*/}
         </div>
         <div className={"flex-1"}/>
